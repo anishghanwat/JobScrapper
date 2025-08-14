@@ -1,4 +1,4 @@
-# Growth for Impact - Job Listings Scraper
+# Job Listings Scraper
 
 A production-ready web scraper that enriches company data with job listings information. This tool can automatically find company websites, careers pages, and extract job postings from various ATS (Applicant Tracking System) providers.
 
